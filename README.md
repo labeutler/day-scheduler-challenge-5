@@ -32,6 +32,7 @@ THEN the saved events persist<br>
 N/A
 
 ## Usage 
+https://labeutler.github.io/day-scheduler-challenge-5/
 
 When opeing the daily planner, you will see the current day displayed at the top of the planner.
 ![alt text](/assets/images/Date.png)
