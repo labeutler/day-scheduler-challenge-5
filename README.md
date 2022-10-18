@@ -31,13 +31,22 @@ THEN the saved events persist<br>
 
 N/A
 
-## Usage (UPDATE)
+## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed.
+When opeing the daily planner, you will see the current day displayed at the top of the planner.
+![alt text](/assets/images/Date.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+When you scroll down, you will see time blocks with business hours.
+![alt text](/assets/images/hours.png)
 
-![alt text](assets/images/screenshot.png)
+When you view the timeblocks, they are color coded for past - gray, present - red, future - green.
+![alt text](/assets/images/color.png)
+
+When you click in a timeblock, you are able to enter event information.
+![alt text](/assets/images/text.png)
+
+When you enter the information and click on the save icon in the blue box, the information will save to the local storage and present the next time the screen opens.
+![alt text](/assets/images/time-save.png)
 
 ## Credits
 
