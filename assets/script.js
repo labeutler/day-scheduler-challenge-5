@@ -5,7 +5,6 @@
 var weekDay = moment().format("dddd, MMMM Do");
 $("#current").text(weekDay);
 
-//______________________________________
 //add event listener to save buttons
 var buttons = document.querySelectorAll(".fa-save")
 for(var i=0; i < buttons.length; i++) {
